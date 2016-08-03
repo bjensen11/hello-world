@@ -1,5 +1,4 @@
 # hello-world
-introductory repository to github
 
 Hello Everyone,
 
